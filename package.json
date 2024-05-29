@@ -1,0 +1,28 @@
+{
+  "name": "prahash",
+  "version": "1.0.0",
+  "description": "A Secured 3 Level Hashing Algorithmic Mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praabindhp/PRA-Hashes.git"
+  },
+  "keywords": [
+    "hash",
+    "pra256",
+    "pra512",
+    "md5",
+    "sha256",
+    "sha512",
+    "npm"
+  ],
+  "author": "Praabindh Pradeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praabindhp/PRA-Hashes/issues"
+  },
+  "homepage": "https://github.com/praabindhp/PRA-Hashes#readme"
+}
