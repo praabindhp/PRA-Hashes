@@ -6,6 +6,9 @@ Includes Both <strong>256</strong> Bits And <strong>512</strong> Bits
 
 # Installation
 
+NPM Repository ~
+https://www.npmjs.com/package/prahash
+
 ```bash
 npm i prahash
 ```
@@ -60,5 +63,5 @@ praabindhp@gmail.com
 GitHub ~
 https://github.com/praabindhp
 
-Current Repository ~
+GitHub Repository ~
 https://github.com/praabindhp/PRA-Hashes.git
